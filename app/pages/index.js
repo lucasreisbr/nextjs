@@ -46,6 +46,10 @@ export default function Home() {
             </p>
           </a>
         </div>
+        <div className="grid">
+            <button className="card" type="button" class="btn btn-primary btn-lg btn-block">Block level button</button>
+            <button className="card" type="button" class="btn btn-secondary btn-lg btn-block">Block level button</button>
+        </div>
       </main>
 
       <footer>
